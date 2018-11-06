@@ -1,0 +1,22 @@
+{
+  "name": "rest-project",
+  "version": "1.0.0",
+  "description": "Just a simple rest interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eedwarddi/rest-project.git"
+  },
+  "author": "Mikko Rajala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eedwarddi/rest-project/issues"
+  },
+  "homepage": "https://github.com/Eedwarddi/rest-project#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
